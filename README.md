@@ -1,1 +1,6 @@
-# shinhancardHackathon
+# KISA-신한카드 데이터톤
+KISA-신한카드 데이터톤
+
+
+## 💙 플레이잇
+
